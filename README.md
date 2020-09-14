@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on LinRegOutliers, a Julia package for detecting outliers in linear regression.
+- 👯 I’m collaborating on @akadal 's autonorm.
+
 <!--
 **jbytecode/jbytecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
