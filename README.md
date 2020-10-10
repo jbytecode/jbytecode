@@ -2,7 +2,7 @@
 
 - I’m currently working on LinRegOutliers, a Julia package for detecting outliers in linear regression.
 - I’m collaborating on @akadal 's autonorm.
-- The project RCaller continues actively.
+- The project RCaller continues actively. A manuscript of this project is in review process: [![status](https://joss.theoj.org/papers/de28eed555632371f4dcbe82efce5075/status.svg)](https://joss.theoj.org/papers/de28eed555632371f4dcbe82efce5075)
 
 <!--
 **jbytecode/jbytecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
