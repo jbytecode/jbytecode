@@ -6,6 +6,9 @@
 - The project LinRegOutliers continues actively. A manuscript of the project has been accepted in JOSS [![status](https://joss.theoj.org/papers/a4fc555d2ef4bafb3ff61c5326b530dc/status.svg)](https://joss.theoj.org/papers/a4fc555d2ef4bafb3ff61c5326b530dc) 
 - The project JMcDM (A Julia package for Multi-criteria decision making) continues actively. 
 
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=jbytecode&count_private=true&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbytecode)
+
 <!--
 **jbytecode/jbytecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
