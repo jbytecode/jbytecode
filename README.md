@@ -7,9 +7,8 @@
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=jbytecode&count_private=true&show_icons=true&hide=contribs)
 
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbytecode)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbytecode&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
